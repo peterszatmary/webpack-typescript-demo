@@ -1,0 +1,12 @@
+{
+  "name": "webpack-typescript-demo",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Peter Szatmary <peter.szatmary@gmail.com>",
+  "devDependencies": {
+    "ts-loader": "^0.8.2",
+    "typescript": "^1.8.10",
+    "webpack": "^1.13.1",
+    "webpack-uglify-js-plugin": "^1.1.9"
+  }
+}
