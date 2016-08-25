@@ -19,7 +19,7 @@ module.exports = {
 		]
 	},
 	//minification
-//	plugins: [
-//		new webpack.optimize.UglifyJsPlugin()
-//	],
+	plugins: [
+		new webpack.optimize.UglifyJsPlugin()
+	],
 }
