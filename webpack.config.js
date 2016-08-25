@@ -7,18 +7,18 @@ module.exports = {
 	resolve: {
 		extensions: ['', '.webpack.js', '.web.js', '.ts', '.js']
 	},
-	// Sourcemaps
+	// sourcemap
 	devtool: 'source-map',
 	resolve: {
 		extensions: ['', '.webpack.js', '.web.js', '.ts', '.js']
 	},
-	// transpilation from typescript to javascript
+	// transpiling from typescript to javascript
 	module: {
 		loaders: [
 		{ test: /\.ts$/, loader: 'ts-loader' }
 		]
 	},
-	//minification
+	//minifying
 	plugins: [
 		new webpack.optimize.UglifyJsPlugin()
 	],
