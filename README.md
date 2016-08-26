@@ -38,7 +38,7 @@ Install all dependencies from package.json.
 webpack
 ```
 
-creates bundle.js and bundle.js.map.
+creates [bundle.js](https://github.com/peterszatmary/webpack-typescript-demo/blob/master/build/bundle.js) and [bundle.js.map](https://github.com/peterszatmary/webpack-typescript-demo/blob/master/build/bundle.js.map).
 
 For development purpose is better to use watch mode that will trigger webpack on your change in code.
 
