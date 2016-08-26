@@ -18,9 +18,9 @@ javascript es5 and combined to one target bundle.js file that is minifyied with 
 
 There are three configuration files in project.
 
-- **package.json** : for npm, used for installing node modules as dependencies.
-- **tsconfig.json** : configuration for typescript
-- **webpack.config.js** : configuration for webpack
+- **[package.json](https://github.com/peterszatmary/webpack-typescript-demo/blob/master/package.json)** : for npm, used for installing node modules as dependencies.
+- **[tsconfig.json](https://github.com/peterszatmary/webpack-typescript-demo/blob/master/tsconfig.json)** : configuration for typescript
+- **[webpack.config.js](https://github.com/peterszatmary/webpack-typescript-demo/blob/master/webpack.config.js)** : configuration for webpack
 
 
 
@@ -31,7 +31,7 @@ There are three configuration files in project.
 npm install
 ```
 
-Install all dependencies from package.json.
+Install all dependencies from [package.json](https://github.com/peterszatmary/webpack-typescript-demo/blob/master/package.json).
 
 
 ```shell
