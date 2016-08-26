@@ -48,6 +48,6 @@ webpack --watch
 
 ## Output
 
-TODO
+![webpack-typescript-output](https://github.com/peterszatmary/just-like-that/blob/master/imgs/webpack-typescript-demo/webpack-typescript-output.png)
 
 
