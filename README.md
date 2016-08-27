@@ -48,6 +48,13 @@ webpack --watch
 
 ## Output
 
+Output is in [build](https://github.com/peterszatmary/webpack-typescript-demo/tree/master/build) folder. There should be after webpack command 2 files :
+
+- [bundle.js](https://github.com/peterszatmary/webpack-typescript-demo/blob/master/build/bundle.js)
+- [bundle.js.map](https://github.com/peterszatmary/webpack-typescript-demo/blob/master/build/bundle.js.map)
+
+After running bundle.js you should see
+
 ![webpack-typescript-output](https://github.com/peterszatmary/just-like-that/blob/master/imgs/webpack-typescript-demo/webpack-typescript-output.png)
 
 
