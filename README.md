@@ -2,6 +2,9 @@
 Webpack typescript integration.
 
 
+[![Build Status](https://travis-ci.org/peterszatmary/webpack-typescript-demo.svg?branch=master)](https://github.com/peterszatmary/webpack-typescript-demo)
+
+
 ## What project does
 
 - creating target bundle.js from typescript files in src folder.
