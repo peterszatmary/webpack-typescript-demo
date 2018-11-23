@@ -1,21 +1,21 @@
-var webpack = require('webpack');
+var webpack = require("webpack");
 module.exports = {
-	entry: './src/main.ts',
+	entry: "./src/main.ts",
 	output: {
-	filename: 'build/bundle.js'
+	filename: "build/bundle.js"
 },
 	resolve: {
-		extensions: ['', '.webpack.js', '.web.js', '.ts', '.js']
+		extensions: ["", ".webpack.js", ".web.js", ".ts", ".js"]
 	},
 	// sourcemap
-	devtool: 'source-map',
+	devtool: "source-map",
 	resolve: {
-		extensions: ['', '.webpack.js', '.web.js', '.ts', '.js']
+		extensions: ["", ".webpack.js", ".web.js", ".ts", ".js"]
 	},
 	// transpiling from typescript to javascript
 	module: {
 		loaders: [
-		{ test: /\.ts$/, loader: 'ts-loader' }
+		{ test: /\.ts$/, loader: "ts-loader" }
 		]
 	},
 	//minifying
