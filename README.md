@@ -1,7 +1,7 @@
 # webpack-typescript-demo #
 Webpack typescript integration.
 
-[![Build Status](https://travis-ci.org/peterszatmary/webpack-typescript-demo.svg?branch=master)](https://github.com/peterszatmary/webpack-typescript-demo)
+[![Build Status](https://travis-ci.org/peterszatmary/webpack-typescript-demo.svg?branch=master)](https://travis-ci.org/peterszatmary/webpack-typescript-demo)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f0e3a53e2bd24cd6947230b5b9c87c7e)](https://www.codacy.com/app/peterszatmary/webpack-typescript-demo?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=peterszatmary/webpack-typescript-demo&amp;utm_campaign=Badge_Grade)
 
 ## What project does ##
